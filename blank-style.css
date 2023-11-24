@@ -1,0 +1,55 @@
+*
+{ 
+background-color: #33FFF6;
+}
+
+div p 
+{ 
+color: black;
+}
+
+ul
+{
+color: #FF3333;
+}
+
+[href]
+{
+color: #FF3333;
+}
+
+h1
+{
+text-align: center;
+color: #FF33F3;
+}
+
+h2
+{
+text-align: center;
+color: #FF33F3;
+}
+
+h3
+{
+text-align: center;
+color: #FF33F3;
+}
+
+h4
+{
+text-align: center;
+color: #FF33F3;
+}
+
+table
+{
+color: #0F8313;
+}
+
+img
+{
+margin: 0 35%;
+}
+
+
