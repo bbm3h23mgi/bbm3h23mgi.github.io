@@ -1,0 +1,92 @@
+#Titel{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: gold;
+}
+#Spiel{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: gold;
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+    float: left;
+}
+#DLC{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: gold;
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+    float: right;
+
+}
+#Bilder{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#Map{
+    width: 40%;
+    height: auto;
+}
+#Klassen{
+    width: 34%;
+    height: auto;
+}
+#Melenia{
+    width: 500%;
+    height: auto;
+}
+#Informationen{
+    justify-content: space-between;
+    display: flex;
+}
+#Bilder2{
+    justify-content: space-between;
+    margin-left: 25px;
+}
+#Bilder1{
+    align-items: end;
+    margin-right: 675px;
+    margin-top: 70px;
+}
+#FromSoftware{
+    width: 5%;
+    height: auto;
+    border: 1px solid white;
+}
+#DarkSouls3{
+    width: 6%;
+    height: auto;
+    
+}
+#Sekiro{
+    width: 5%;
+    height: auto;   
+}
+#Navi{
+    display: inline-block;
+    text-align: center;
+    margin-top: 100px;
+}
+#Box{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 18%;
+    height: 10%;
+    background-color: gold ;
+    margin-top: 47%;
+    margin-left: 41%;
+    z-index: -1;
+    border-radius: 20px;
+    padding: 2px;
+    border: 3px;
+}
+img:hover{
+   
+    transform: scale(1.25,1.25);
+    background-position: 100% 50%;
+    transition: ease-in 1s;
+ 
+}

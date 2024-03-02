@@ -1,0 +1,77 @@
+#Titel{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+ 
+#Spiel{
+font-family: 'Times New Roman', Times, serif;
+    background-color: lightgray;
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+    float: left;
+}
+#Skills{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightgray;
+    padding: 25px;
+    border: 1px solid black;
+    border-radius: 10px;
+    float: right;
+}
+#Informationen{
+    text-align: center;
+    display: flex;
+}
+#Friede{
+    width: 50%;
+    height: auto;    
+}
+#Londo{
+    width: 49%;
+    height: auto;
+}
+#HUD{
+    width: 40%;
+    height: auto;
+    margin-right: 20px;
+}
+#Klassen{
+    width: 40%;
+    height: auto;
+}
+#Bilder1{
+    margin-bottom: 20px;
+}
+#Bilder2{
+    text-align: end;
+    margin-top: 30px;
+}
+#Bilder{
+    margin-top: 400px;
+    display: flex;
+    justify-content: space-between;
+}
+#FromSoftware{
+    width: 7%;
+    height: auto;
+}
+#EldenRing{
+    width: 9.5%;
+    height: auto;
+}
+#Sekiro{
+    width: 7%;
+    height: auto;
+}
+#Navi{
+    text-align: center;
+    margin-top: 120px;
+    float: left;
+}
+img:hover{
+    transform: scale(1.2,1.2);
+    background-position: 100% 50%;
+    transition: ease-in 1s;
+}

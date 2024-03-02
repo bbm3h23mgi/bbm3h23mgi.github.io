@@ -1,0 +1,68 @@
+#Überschrift{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.FromSoftwareInc{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: gray;
+    padding: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    float: left;
+}
+.TopSpiele{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: gray;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    float: right;
+}
+.Erzählen{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: gray;
+    border: 1px solid black;
+    border-radius: 10px;
+    position: relative;
+    top: 380px;
+    width: 400px;
+    display: inline-block;
+    margin: -118px
+    
+}
+#EldenRing{ 
+    width: 77%;
+    height: auto;
+    
+}
+#DarkSouls3{
+    width: 125%;
+    height: auto;
+}
+#Sekiro{
+    width: 53%;
+    height: auto;
+    margin-left: 353px;
+    
+}
+.Bilder{
+   display: flex;
+   justify-content: space-between;
+   align-items: flex-end;
+   margin-top: 600px;
+}
+#Footer{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: gray;
+    padding: 6px;
+    border: 1px solid black;
+    border-radius: 10px;
+    float: left;
+}
+img:hover{
+    transform: scale(1.05,1.05);
+    background-position: 100% 50%;
+    transition: ease-in 1s;
+}
+
